@@ -4,7 +4,8 @@ A ONG Mais Amor SP tem como objetivo a distribuição de alimentos, roupas e ite
 A criação de um site surge como um apoio para aumentar a visibilidade e credibilidade da Mais Amor SP, assim como para auxiliar na divulgação de sua história, ações e ofertas de ajuda, tanto financeira como de voluntários. 
 
 <img src="img/ongmaisamorgif.gif" width="100%"/>
-:sparkles:[Confira o resultado final do site clicando aqui.](https://www.projetomaisamorsp.ong.br/index.html):sparkles:
+
+:sparkles: [Confira o resultado final do site clicando aqui.](https://www.projetomaisamorsp.ong.br/index.html) :sparkles:
 
 ## Feito Com:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
